@@ -5,8 +5,11 @@ public class ExmploExcecao {
     
     public static void main(String[] args) {
         
-        //Number valor = Double.valueOf("a1.75");
+        // Case 1
+        /*Number valor = Double.valueOf("a1.75");
+        System.out.println(valor);*/
 
+        // Case 2
         Number valor;
         try {
 
